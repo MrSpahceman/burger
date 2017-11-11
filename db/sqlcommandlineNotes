@@ -1,0 +1,7 @@
+mysql coomand line notes:
+mysql> show databases; // this shows what databases are 
+in my database
+mysql> use xxxxx; // where xxx is database to use
+mysql> show tables; // this shows what tables to display after "use xxxx;" is performed from above.
+mysql> describe xxxx// to show the contents of the table
+////Insert data into tables///
